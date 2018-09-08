@@ -1,0 +1,7 @@
+{
+  "name": "iNews",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
